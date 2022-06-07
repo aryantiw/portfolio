@@ -19,6 +19,7 @@ nav{
     border-radius: 0.5rem;
     padding: 1rem;
     border: 1rem;
+    max-width: auto;
 }
 
 
