@@ -3,7 +3,7 @@
 body{
     font-family: 'Raleway', sans-serif;
     background-color:white;
-    
+    background-image: url('joel-holland-TRhGEGdw-YY-unsplash.jpg');
 }
 
 
@@ -14,12 +14,15 @@ body{
 }
 
 nav{
-    background-color:#6C63FF ;
+    background-color:#6495edd0;
     text-align: right;
     border-radius: 0.5rem;
     padding: 1rem;
     border: 1rem;
-    max-width: auto;
+    margin: auto;
+    max-width: fit-content;
+    
+    
 }
 
 
@@ -27,25 +30,43 @@ nav{
     border: 2px solid ;
     color : white;
     height: 30vh;
-    width: 800px;
-    margin: 12px auto;
-    background-color: #6C63FF;
+    /* width: 800px; */
+    margin: auto;
+    background-color: #000000d0;
     border-radius: 1rem;
     text-align: center;
     padding: 1rem;
+    align-items: flex-start;
+    width: 650px;
+    max-width: fit-content;    
+    
 }
 .header2{
     border: 2px solid ;
     color : white;
     height: 30vh;
-    width: 800px;
-    margin: 12px auto;
-    background-color: #6C63FF;
+    /*width: 800px; */
+    margin: auto;
+    background-color: #475569d0;
     border-radius: 1rem;
     padding: 1rem;
+    width: 650px;
+    max-width: fit-content;
+    align-items:flex-start;
+    
+}
+
+.header2 ul{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.header p{
+    margin-left: 25%;
+    margin-right: 25%;
 }
 nav a{
-    background-color:#F9A826;
+    background-color:darkgray;
     padding: 1rem;
     border-radius: 1rem;
     text-decoration: none;
@@ -57,20 +78,27 @@ nav a{
     color: white;
 }
 
-img{
+header img{
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  padding: 6rem;
+  margin: auto;
+  width: 650px;
+  max-width: fit-content;
+  padding: 2rem;
+}
+header h1{
+    text-align: center;
+    color:#475569;
 }
 
+
 footer{
-    background:#6C63FF;
+    background:#6495edd0;
     border-radius: 1rem;
     padding: 1rem;
+    border: 1rem;
     color: white;
     text-align: right;
+    margin: 2rem;
 }
 
 footer a{
@@ -78,4 +106,6 @@ footer a{
     border-radius: 1rem;
     text-decoration: none;
     color: aliceblue;
-}
+    padding: 2rem auto;
+    text-align: right;
+}   
