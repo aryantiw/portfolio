@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color:white;
+    background-image: url('joel-holland-TRhGEGdw-YY-unsplash.jpg');
+    display: unset;
+}
+
+
+
+.inline{
+    display: inline;
+    padding: 2rem;
+}
+
+nav{
+    background-color:#6495edd0;
+    text-align: right;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    border: 1rem;
+    margin: auto;
+    max-width: fit-content;
+    
+    
+}
+
+
+.header{
+    border: 2px solid ;
+    color : white;
+    height: 30vh;
+    /* width: 800px; */
+    margin: auto;
+    background-color: #000000d0;
+    border-radius: 1rem;
+    text-align: center;
+    padding: 1rem;
+    align-items: flex-start;
+    width: 650px;
+    max-width: fit-content;    
+    
+}
+.header2{
+    border: 2px solid ;
+    color : white;
+    height: 30vh;
+    /*width: 800px; */
+    margin: auto;
+    background-color: #475569d0;
+    border-radius: 1rem;
+    padding: 1rem;
+    width: 650px;
+    max-width: fit-content;
+    align-items:flex-start;
+    
+}
+
+.header2 ul{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.header p{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+nav a{
+    background-color:darkgray;
+    padding: 1rem;
+    border-radius: 1rem;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.left-shift{
+    margin-right: 77rem;
+    color: white;
+}
+
+header img{
+  display: block;
+  margin: auto;
+  width: 650px;
+  max-width: fit-content;
+  padding: 2rem;
+}
+header h1{
+    text-align: center;
+    color:#475569;
+}
+
+
+footer{
+    background:#6495edd0;
+    border-radius: 1rem;
+    padding: 1rem;
+    border: 1rem;
+    color: white;
+    text-align: right;
+    margin: 2rem;
+}
+
+footer a{
+    padding: 2rem;
+    border-radius: 1rem;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 2rem auto;
+    text-align: right;
+}   
