@@ -23,7 +23,7 @@ nav{
     border: 1rem;
     margin: auto;
     max-width: fit-content;
-    
+    overflow:scroll;
     
 }
 
