@@ -22,8 +22,7 @@ nav{
     padding: 1rem;
     border: 1rem;
     margin: auto;
-    max-width: fit-content;
-    overflow:scroll;
+    max-width: 90vw;
     
 }
 
