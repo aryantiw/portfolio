@@ -7,7 +7,10 @@ body{
     display: unset;
     
 }
-
+img {
+  max-width: 100%;
+  height: auto;
+}
 
 
 .inline{
@@ -57,10 +60,12 @@ nav{
 
 .header p{
     max-width:600px;
+    text-align:center;
 }
 
 .header2 p{
     max-width:600px;
+    text-align:center;
 }
 nav a{
     padding: 1rem;
