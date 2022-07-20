@@ -7,11 +7,13 @@ body{
     display: unset;
     
 }
-img {
-  max-width: 100%;
-  height: auto;
+header img{
+  display: block;
+  margin: auto;
+  width: 41vw;
+  max-width: fit-content;
+  padding: 2rem;
 }
-
 
 .inline{
     display: inline;
