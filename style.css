@@ -31,15 +31,13 @@ nav{
     border: 2px solid ;
     color : white;
     height: 30vh;
-    /* width: 800px; */
+   
     margin: auto;
     background-color: #000000d0;
     border-radius: 1rem;
     text-align: center;
     padding: 1rem;
-    align-items: flex-start;
-  
-    max-width: fit-content; 
+    
     overflow: auto;
     
 }
@@ -52,10 +50,7 @@ nav{
     background-color: #475569d0;
     border-radius: 1rem;
     padding: 1rem;
-    width: 650px;
-    max-width: fit-content;
-    align-items:flex-start;
-    overflow:auto;
+    
     
 }
 
