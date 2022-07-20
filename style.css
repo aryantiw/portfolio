@@ -61,11 +61,22 @@ nav{
 .header p{
     max-width:600px;
     text-align:center;
+    
+    margin: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 600px;
 }
 
 .header2 p{
     max-width:600px;
     text-align:center;
+    
+    margin: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 600px;
+
 }
 nav a{
     padding: 1rem;
@@ -80,13 +91,7 @@ nav a{
     color: white;
 }
 
-header img{
-  display: block;
-  margin: auto;
-  width: 650px;
-  max-width: fit-content;
-  padding: 2rem;
-}
+
 header h1{
     text-align: center;
     color:#475569;
