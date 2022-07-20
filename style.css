@@ -60,8 +60,11 @@ nav{
 }
 
 .header p{
-    margin-left: 25%;
-    margin-right: 25%;
+    max-witdh:600px;
+}
+
+.header2 p{
+    max-width:600px;
 }
 nav a{
     background-color:darkgray;
