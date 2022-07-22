@@ -106,6 +106,8 @@ footer{
     background:#6495edd0;
     border-radius: 1rem;
     padding: 2rem;
+    padding: 2vw;
+    border: 1rem;
     color: white;
     text-align: right;
    
