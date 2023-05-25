@@ -84,10 +84,12 @@ nav{
 }
 nav a{
     padding: 1rem;
-    border-radius: 1rem;
+    /* border-radius: 1rem; */
     text-decoration: none;
     color: aliceblue;
     font-size: 16px;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
 
 .left-shift{
@@ -104,12 +106,14 @@ header h1{
 
 footer{
     background:#6495edd0;
-    border-radius: 1rem;
+    /* border-radius: 1rem; */
     padding: 2rem;
     padding: 2vw;
     border: 1rem;
     color: white;
     text-align: right;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
    
 }
 
