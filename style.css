@@ -25,7 +25,8 @@ header img{
 nav{
     background-color:#6495edd0;
     text-align: right;
-    border-radius: 0.5rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
     padding: 1rem;
     border: 1rem;
     max-width: 100vw;
