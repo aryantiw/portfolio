@@ -12,8 +12,8 @@ body{
 header img{
   display: block;
   margin: auto;
-  width: 41%;
-  max-width: fit-content;
+  height: auto;
+  max-width: 100%;
   padding: 2rem;
 }
 
