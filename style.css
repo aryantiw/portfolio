@@ -52,6 +52,7 @@ nav{
     color : white;
     height: 30vh;
     /*width: 800px; */
+   
     margin: auto;
     background-color: #475569d0;
     border-radius: 1rem;
@@ -151,3 +152,5 @@ footer a{
     border: 1px solid lightskyblue;
     color: lightblue;
 }
+
+
